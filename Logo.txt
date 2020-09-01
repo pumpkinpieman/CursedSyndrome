@@ -1,0 +1,16 @@
+      ______                              ______                        ______          __  __ __          
+     / ____/_____________ _____  ___     / ____/________  ____ ___     /_  __/__  _  __/ /_/ //_/___ _   __
+    / __/ / ___/ ___/ __ `/ __ \/ _ \   / /_  / ___/ __ \/ __ `__ \     / / / _ \| |/_/ __/ ,< / __ \ | / /
+   / /___(__  ) /__/ /_/ / /_/ /  __/  / __/ / /  / /_/ / / / / / /    / / /  __/>  </ /_/ /| / /_/ / |/ / 
+  /_____/____/\___/\__,_/ .___/\___/  /_/   /_/   \____/_/ /_/ /_/    /_/  \___/_/|_|\__/_/ |_\____/|___/  
+                       /_/                                                                                 
+
+                                                                                                                        
+
+
+This is the text version of Escape From Tarkov designed by BATTLESTATE GAMES. 
+If you enjoy this game, please check me out on twitter - @_BTCB_ - and on twitch - BloodThirstyCheeseBurger.
+Slowly but surely, I'll be adding commands like "Inventory", "water", "loot", "Run" rather than entering in specific choices.
+
+If you're enjoying this game, please consider subscribing!
+
